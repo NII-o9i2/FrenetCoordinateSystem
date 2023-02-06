@@ -19,16 +19,43 @@ static void BM_StringCopy(benchmark::State& state) {
 BENCHMARK(BM_StringCopy);
 
 // frenet update
-static void BM_Frenet(benchmark::State& state){
-
+static void BM_Frenet_Update(benchmark::State& state){
+//  auto frenet_coor = gen_frenet_coordinate();
   for (auto _ : state){
     auto frenet_coor = gen_frenet_coordinate();
 //    search_point(frenet_coor);
   }
-
 }
+BENCHMARK(BM_Frenet_Update);
 
-BENCHMARK(BM_Frenet);
+// frenet search points
+static void BM_Frenet_Search(benchmark::State& state){
+  auto frenet_coor = gen_frenet_coordinate();
+  for (auto _ : state){
+    search_point(frenet_coor);
+  }
+}
+BENCHMARK(BM_Frenet_Search);
+
+
+// new frenet update
+static void BM_New_Frenet_Update(benchmark::State& state){
+// auto frenet_coor = gen_new_frenet_coordinate();
+ for (auto _ : state){
+  auto frenet_coor = gen_new_frenet_coordinate();
+ }
+}
+BENCHMARK(BM_New_Frenet_Update);
+
+// new frenet search
+static void BM_New_Frenet_Search(benchmark::State& state){
+ auto frenet_coor = gen_new_frenet_coordinate();
+  for (auto _ : state){
+    search_point_new(frenet_coor);
+  }
+}
+BENCHMARK(BM_New_Frenet_Search);
+
 
 
 BENCHMARK_MAIN();

@@ -1,0 +1,5 @@
+if(EXISTS "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/osqp-cpp/osqp_test[1]_tests.cmake")
+  include("/home/jojo-feng/Downloads/benchmark/cmake-build-debug/osqp-cpp/osqp_test[1]_tests.cmake")
+else()
+  add_test(osqp_test_NOT_BUILT osqp_test_NOT_BUILT)
+endif()

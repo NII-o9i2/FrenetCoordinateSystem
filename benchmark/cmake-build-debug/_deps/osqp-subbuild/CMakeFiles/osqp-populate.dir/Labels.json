@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/CMakeFiles/osqp-populate"
+		},
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/CMakeFiles/osqp-populate.rule"
+		},
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/CMakeFiles/osqp-populate-complete.rule"
+		},
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-build.rule"
+		},
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-configure.rule"
+		},
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-download.rule"
+		},
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-install.rule"
+		},
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-patch.rule"
+		},
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-test.rule"
+		},
+		{
+			"file" : "/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"osqp-populate"
+		],
+		"name" : "osqp-populate"
+	}
+}

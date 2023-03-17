@@ -1,0 +1,13 @@
+# ninja log v5
+2	2228	1675327124297981838	CMakeFiles/frenet_coordinate_project.dir/frenet_coordinate_system/frenet_coordinate_system_new.cpp.o	b45950c3f3655088
+1	1272	1675746937463692921	CMakeFiles/frenet_coordinate_project.dir/frenet_coordinate_system/frenet_coordinate_main.cpp.o	184a7729f5678c97
+0	22	1676255870784157128	build.ninja	6b15e33ca9ab1aa1
+1	1365	1675747123522713656	CMakeFiles/frenet_coordinate_project.dir/main.cpp.o	c9f169450ad16064
+2	525	1675325324403741997	CMakeFiles/frenet_coordinate_project.dir/utils/cartesian_frenet_conversion.cc.o	566b8826b12da3db
+2	402	1675325324279742270	CMakeFiles/frenet_coordinate_project.dir/utils/vec2d.cc.o	f0c4abaa8a37f4dc
+1365	1448	1675747123606713265	frenet_coordinate_project	a97465fb3f21194a
+1	5381	1675326592085541259	CMakeFiles/frenet_coordinate_project.dir/frenet_coordinate_system/frenet_coordinate_system.cpp.o	bb0d8d7a9d9757fc
+2	605	1675325324483741821	CMakeFiles/frenet_coordinate_project.dir/utils/line_segment2d.cc.o	43daff664ed4ed4c
+2	1351	1675327123421981461	CMakeFiles/frenet_coordinate_project.dir/utils/qp_solver/osqp_solver.cpp.o	694324f76aaeb478
+2	658	1675325324535741707	CMakeFiles/frenet_coordinate_project.dir/utils/math_utils.cc.o	e1d2cee2435007f9
+2	835	1675325324711741319	CMakeFiles/frenet_coordinate_project.dir/utils/spline.cpp.o	a44df90d947f19ae

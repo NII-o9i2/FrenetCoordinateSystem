@@ -1,0 +1,21 @@
+# ninja log v5
+0	2	1675242442804314627	osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-mkdir	a2093823bf389e32
+0	2	1675242442804314627	/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-mkdir	a2093823bf389e32
+2	36435	1675242479236453630	osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-download	903ecf2d1edd19e7
+2	36435	1675242479236453630	/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-download	903ecf2d1edd19e7
+36435	37335	0	osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-update	3c94641f3ff73691
+36435	37335	0	/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-update	3c94641f3ff73691
+37335	37336	1675242480136457036	osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-patch	5c343b0b83925101
+37335	37336	1675242480136457036	/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-patch	5c343b0b83925101
+37336	37337	1675242480140457051	osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-configure	151db12c8c3003b3
+37336	37337	1675242480140457051	/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-configure	151db12c8c3003b3
+37337	37339	1675242480140457051	osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-build	f33ad37786b0a669
+37337	37339	1675242480140457051	/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-build	f33ad37786b0a669
+37339	37340	1675242480140457051	osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-install	22ef0e0cf9f88fe4
+37339	37340	1675242480140457051	/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-install	22ef0e0cf9f88fe4
+37340	37342	1675242480144457067	osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-test	5c74c0d899e2971b
+37340	37342	1675242480144457067	/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-test	5c74c0d899e2971b
+37342	37344	1675242480144457067	CMakeFiles/osqp-populate-complete	9c6685f56af90daf
+37342	37344	1675242480144457067	osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-done	9c6685f56af90daf
+37342	37344	1675242480144457067	/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/CMakeFiles/osqp-populate-complete	9c6685f56af90daf
+37342	37344	1675242480144457067	/home/jojo-feng/Downloads/benchmark/cmake-build-debug/_deps/osqp-subbuild/osqp-populate-prefix/src/osqp-populate-stamp/osqp-populate-done	9c6685f56af90daf
